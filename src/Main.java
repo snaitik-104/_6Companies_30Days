@@ -1,5 +1,8 @@
+import microsoft.evaluateReversePolishNotation;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        evaluateReversePolishNotation erpn = new evaluateReversePolishNotation();
     }
 }
